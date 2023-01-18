@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
       <div className='bottom'>
         <div className='left'>
-          <div className='logo'>Lamastore</div>
+          <div className='logo'>Weakton Store</div>
           <div className='copyright'>
             &copy; Copyright 2023. All Rights Reserved
           </div>

@@ -31,7 +31,7 @@ const Products = () => {
           <h2>Filter by price</h2>
           <div className='inputItem' id='mui-slider'>
             <span>0</span>
-            <Box width={100}>
+            <Box className='box' width={100}>
               <Slider
                 onChange={(e) => setMaxPrice(e.target.value)}
                 defaultValue={0}
